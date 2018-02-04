@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 3
+
+David, the summaries that you have presented here follow a bitmore of the scaffold that I gave you, but I'm not sure if they are detailed enough to draw a synthesis across the articles as is expected of you this week. It might be that you have some tacit understanding of them, which allows you to bring them together, but it's not explict in your summaries. so, my advice in working on this week's assignment is that you think about what holds these papers together and how can you discuss them in turn. That will be quite important as you start to write your paper, of which this latest assignment is meant to form the basis of.
+
+* Score: 16/20
+
 ## Assignment 2
 
 David, your summaries of these articles are comprhensive, but appear to focus on the results of the papers. It's not clear from these summaries what the phenomenon is...precisely...nor how it is modeled. I think that understanding the concept of MHD is important here. What does it mean and how does it work? What models are used to understand it? You've dove into articles that describe results, but I'm concerned that you are missing the forest through the trees. It's critical that in your paper you provide an overview of magnetohydrodynamics, and describe your understanding of it. For this week, I'd ask that you focus on that and try to understand it conceptually to be able to frame the results in the papers that you have and are reading.
