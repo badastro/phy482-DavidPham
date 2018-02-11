@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 4
+
+David, you did a great job of linking the studies you have read about together. So, thanks for taking on the feedback form last week. I think I am still wanting more detail into the studies: how the modeling is done, what specifically is MHD from a model perspective, and how might one related the general model in MHD to specifics that you have presented here. I think that's an important gap in your work so far - you assume that there's an understanding on the part of the reader on MHD, which is needed to understand the studies. My suggestion would be to think about what you have learned and what you have presented in terms of what someone would need to know to better understand the physics presented: MHD, convection, etc. In the next update, I'm hoping that you have expanded on what you have done here in that way.
+
+* Score: 20/20
+
 ## Assignment 3
 
 David, the summaries that you have presented here follow a bitmore of the scaffold that I gave you, but I'm not sure if they are detailed enough to draw a synthesis across the articles as is expected of you this week. It might be that you have some tacit understanding of them, which allows you to bring them together, but it's not explict in your summaries. so, my advice in working on this week's assignment is that you think about what holds these papers together and how can you discuss them in turn. That will be quite important as you start to write your paper, of which this latest assignment is meant to form the basis of.
