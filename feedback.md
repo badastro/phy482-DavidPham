@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+David, your update appears to have brought in another paper, but I'm not sure that this reads like a narrative around magnetohydrodynamics. Rather it reads like you still summarizing these papers and linking them together at the end. I'm curious about the narrative for your paper (i.e., what is the whole thing you are presenting). The paper should have a clear and common thread that is punctuated by these papers. You have one more update to do this week, and I'd suggest revieweing the feedbak you got last week and this week to really try to get a draft that you can get feedback on before it is due.
+
+* Score: 16/20
+
 ## Assignment 4
 
 David, you did a great job of linking the studies you have read about together. So, thanks for taking on the feedback form last week. I think I am still wanting more detail into the studies: how the modeling is done, what specifically is MHD from a model perspective, and how might one related the general model in MHD to specifics that you have presented here. I think that's an important gap in your work so far - you assume that there's an understanding on the part of the reader on MHD, which is needed to understand the studies. My suggestion would be to think about what you have learned and what you have presented in terms of what someone would need to know to better understand the physics presented: MHD, convection, etc. In the next update, I'm hoping that you have expanded on what you have done here in that way.
