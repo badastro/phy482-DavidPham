@@ -3,9 +3,16 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+
+## Assignment 6
+
+David, you have made excellent progress on this paper since the last update. Thank you for reading the feedback and thinking through what changes you needed to make. I think for your feedback this week, I'd suggest that you do some reads for grammar and style - I might suggest you ask one of your classmates or friends read and give you notes. The overall paper makes a lot of sense, but there some work you can do to make an event better final draft by addressing grammar and style. Great work this last week!
+
+* Score: 20/20
+
 ## Assignment 5
 
-David, your update appears to have brought in another paper, but I'm not sure that this reads like a narrative around magnetohydrodynamics. Rather it reads like you still summarizing these papers and linking them together at the end. I'm curious about the narrative for your paper (i.e., what is the whole thing you are presenting). The paper should have a clear and common thread that is punctuated by these papers. You have one more update to do this week, and I'd suggest revieweing the feedbak you got last week and this week to really try to get a draft that you can get feedback on before it is due.
+David, your update appears to have brought in another paper, but I'm not sure that this reads like a narrative around magnetohydrodynamics. Rather it reads like you still summarizing these papers and linking them together at the end. I'm curious about the narrative for your paper (i.e., what is the whole thing you are presenting). The paper should have a clear and common thread that is punctuated by these papers. You have one more update to do this week, and I'd suggest revieweing the feedback you got last week and this week to really try to get a draft that you can get feedback on before it is due.
 
 * Score: 16/20
 
